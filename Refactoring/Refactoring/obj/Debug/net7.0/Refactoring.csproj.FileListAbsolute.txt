@@ -1,0 +1,14 @@
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\Refactoring.AssemblyInfoInputs.cache
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\Refactoring.AssemblyInfo.cs
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\Refactoring.csproj.CoreCompileInputs.cache
+D:\C#\Refactoring\Refactoring\bin\Debug\net7.0\Refactoring.exe
+D:\C#\Refactoring\Refactoring\bin\Debug\net7.0\Refactoring.deps.json
+D:\C#\Refactoring\Refactoring\bin\Debug\net7.0\Refactoring.runtimeconfig.json
+D:\C#\Refactoring\Refactoring\bin\Debug\net7.0\Refactoring.dll
+D:\C#\Refactoring\Refactoring\bin\Debug\net7.0\Refactoring.pdb
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\Refactoring.dll
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\refint\Refactoring.dll
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\Refactoring.pdb
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\Refactoring.genruntimeconfig.cache
+D:\C#\Refactoring\Refactoring\obj\Debug\net7.0\ref\Refactoring.dll
